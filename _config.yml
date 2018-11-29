@@ -21,8 +21,8 @@ instagram: berwin
 linkedin: berwin
 
 # avatar and Favicon
-avatar: http://imgs.Berwin1015.org/site-avatar.png
-favicon: http://imgs.Berwin1015.org/site-favicon.ico
+avatar: avatar: ../../../../imags/berwin.bmp
+favicon: ../../../../imags/berwin.bmp
 
 # disqus config
 disqus:
