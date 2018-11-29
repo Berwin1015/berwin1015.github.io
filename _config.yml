@@ -14,9 +14,9 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: berwin
-weibo: berwin
-github: berwin1015
+#twitter: berwin
+#weibo: berwin
+github: Berwin1015
 instagram: berwin
 linkedin: berwin
 
@@ -47,4 +47,3 @@ gems:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
-
