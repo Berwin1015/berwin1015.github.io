@@ -8,7 +8,7 @@ keywords: Note
 
 ## 1.配置代理服务器
 
-	### 1.1 /etc/profile
+###1.1 /etc/profile
 
 ​	/etc/profile文件的改变会涉及到系统的环境
 
